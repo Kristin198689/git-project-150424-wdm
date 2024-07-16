@@ -1,6 +1,9 @@
 #!/bin/bash
 
 # 1. Запрос исходной и целевой директории у пользователя
+#Christina Marina Eugen Anastasia
+read -p "input dir" inputDir
+read -p "reslt dir" resltDir
 
 
 # 2. Запрос расширения файлов, которые нужно скопировать
